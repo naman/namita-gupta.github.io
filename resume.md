@@ -1,9 +1,10 @@
 ---
-layout: cv
 title: Resumé
+permalink: "/resume/"
+layout: cv
 tags: resume
-permalink: /resume/
 ---
+
 # Namita Gupta
 
 <div id="webaddress">
@@ -37,7 +38,7 @@ permalink: /resume/
 
 
 
-## Publications
+## Technical
 
 
 
